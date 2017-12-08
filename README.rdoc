@@ -1,31 +1,10 @@
 == README
 
 "This is the finance-tracker application"
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
- 
-build 
+1.Authentication System.
+2.Users can track stocks, upto 10 per user.
+3.Users can search for stocks using a search bar.
+4.Users can choose to add a stock from results of search bar to their portfolio.
+5.Users can look for friends, or other users, by name and email
+6.Users can view portfolio of stocks their friends are tracking for investing needs.
+7.Must be mobile friendly, so the styling has to be responsive.
